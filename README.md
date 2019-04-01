@@ -1,4 +1,11 @@
 # test_db
+
+## Exemple using Apache Spark
+
+See this [example](https://github.com/tmcgrath/spark-2/blob/master/src/main/scala/com/supergloo/ETLExample.scala) on this [repo](https://github.com/tmcgrath/spark-2)
+
+
+## Repository description 
 A sample database with an integrated test suite, used to test your applications and database servers
 
 This repository was migrated from [Launchpad](https://launchpad.net/test-db).
