@@ -2,7 +2,7 @@
 
 ## Exemple using Apache Spark
 
-See this [example](https://github.com/tmcgrath/spark-2/blob/master/src/main/scala/com/supergloo/ETLExample.scala) on this [repo](https://github.com/tmcgrath/spark-2)
+See this [example](https://github.com/tmcgrath/spark-2/blob/master/src/main/scala/com/supergloo/ETLExample.scala) on this [repo](https://github.com/tmcgrath/spark-2) and [this post](https://supergloo.com/spark/spark-fair-scheduler-example/)
 
 
 ## Repository description 
